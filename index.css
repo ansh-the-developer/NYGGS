@@ -1,0 +1,128 @@
+*{
+    /* border: 1px solid blue; */
+    font-family:  'Times New Roman', Times, serif;
+}
+.navi{
+    background-color: rgba(255,255,255,255)!important; 
+    box-shadow:15px 19px 20px -15px grey ;
+    
+}
+
+.naviButton{
+    background-color: rgba(68,237,156,255)!important;
+    border: none;
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: 900;
+    padding: 0 20px 0px 20px;
+    border-radius: none!important;
+    color: black;
+}
+
+.posterButton{
+    
+    background-color: rgba(68,237,156,255)!important;
+    border: none;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 900;
+    padding: 8px 53px 8px 20px;
+    border-radius: none!important;
+    color: black;
+
+}
+
+.contents > h1{
+    
+    line-height: 3.5rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+
+}
+
+.erp{
+    background-color: rgba(11,14,23,255);
+    color: rgba(228,229,230,255);
+    padding-top: 2rem;
+}
+
+.line{
+    width: 68px;
+    height: 4px!important;
+    background-color: lightgreen !important;
+    color: lightgreen;
+    margin: auto;
+}
+
+.pillar{
+    background-color: rgba(20,23,32,255);
+    color: white;
+    padding: 3rem 0 3rem 0;
+}
+
+.ui{
+background-color: rgba(255,255,255,255);
+}
+
+
+.arrowUI{
+    margin-left: 200px;
+    position: relative;
+    bottom: 28px;
+}
+
+.uiCards{
+    background-color: rgba(243,246,251,255)!important;
+}
+
+.formSection{
+    background-color: rgba(59,239,166,255)!important;
+    padding: 5rem 0 5rem 0
+}
+
+#formButton{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px 12px 5px 12px;
+}
+
+.inUI{
+    border: none;
+    border-bottom: 2px solid black;
+    color: black;
+    background-color:rgba(59,239,166,255) ;
+}
+
+.footer{
+    background-color: black!important;
+    color: white !important;
+    padding: 3rem 0 1rem 0 !important;
+}
+
+.fCard{
+    
+    background-color: rgba(59,239,166,255);
+    padding: 1.5rem 3rem 1.5rem 3rem;
+    font-size: large !important;
+    font-weight: bolder !important;
+
+}
+
+.footerNav{
+    background-color: black;
+    border-top: 2px solid grey ;
+    margin-top: 2rem;
+}
+
+.footer label{
+    display: inline-block;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+}
+
+.footer li{
+    line-height: 2rem;
+    color:  #5c5d5e;
+}
+
